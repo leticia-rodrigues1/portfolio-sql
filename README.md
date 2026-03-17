@@ -1,5 +1,5 @@
- ## 👩‍💻 Letícia Rodrigues — Portfólio SQL
-🎓 Administração | Pós em Projetos | ADS em andamento
+ ## 👩‍💻 Letícia Rodrigues 31 anos, solteira — Portfólio SQL
+🎓 Sou formada em Administração | Pós em Projetos | ADS em andamento
 📊 Em transição de carreira para Área de Dados
 💻  SQL | Power BI | GitHub  | SAP | Jira | MS Project | Excel | Power Point | Gestão Ágil | Scrum 
 
@@ -36,5 +36,4 @@ Estou em transição de carreira para área de Dados e utilizo este repositório
 
 📫 Contato
 LinkedIn: https://www.linkedin.com/in/leticia-rodrigues-a71055147
-
 Email: leticiaradm@outlook.com
