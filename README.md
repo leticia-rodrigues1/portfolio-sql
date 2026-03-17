@@ -3,6 +3,10 @@
 📊 Em transição de carreira para Área de Dados
 💻  SQL | Power BI | GitHub  | SAP | Jira | MS Project | Excel | Power Point | Gestão Ágil | Scrum 
 
+📌 Sobre mim
+Profissional com experiência na área bancária e em transição de carreira para a área de Dados, desenvolvendo habilidades em SQL Server, Power BI e Excel para análise de dados.
+Este repositório foi criado para registrar minha evolução prática em SQL, com exercícios, consultas e scripts desenvolvidos durante meus estudos.
+
 📂 Sobre este repositório
 Este repositório contém exercícios e projetos desenvolvidos durante meus estudos de SQL Server, com foco em análise de dados.
 Conteúdos estudados:
