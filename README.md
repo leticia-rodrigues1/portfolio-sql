@@ -6,17 +6,17 @@
 📂 Sobre este repositório
 Este repositório contém exercícios e projetos desenvolvidos durante meus estudos de SQL Server, com foco em análise de dados.
 Conteúdos estudados:
-✔SELECT
-✔WHERE
-✔GROUP BY
-✔JOIN
-✔SUBQUERY
-✔CREATE TABLE
-✔INSERT
-✔UPDATE
-✔DELETE
-✔VIEW
-✔CONSTRAINTS
+SELECT
+WHERE
+GROUP BY
+JOIN
+SUBQUERY
+CREATE TABLE
+INSERT
+UPDATE
+DELETE
+VIEW
+CONSTRAINTS
 
 📂 Projetos SQL
 ✔ Consultas básicas
