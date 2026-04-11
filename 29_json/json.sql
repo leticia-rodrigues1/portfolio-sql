@@ -1,15 +1,15 @@
 
-/* O QUE … JSON? (JavaScript Object Notation)
-… um formato leve de troca de dados.
-Ele È baseado em texto e usa uma sintaxe simples de chave - valor
+/* O QUE √â JSON? (JavaScript Object Notation)
+√â um formato leve de troca de dados.
+Ele √© baseado em texto e usa uma sintaxe simples de chave - valor
 
-… muito usado em APIS e integraÁıes, justamente	porque È f·cil de transportar e processar.
+√â muito usado em APIS e integra√ß√µes, justamente	porque √© f√°cil de transportar e processar.
 
 Diferente de um banco relacional (SQL),
-o JSON È semiestruturado, ou seja,
-os dados n„o precisam estar em uma tabela fixa - cada objeto pode ter campos diferentes.
+o JSON √© semiestruturado, ou seja,
+os dados n√£o precisam estar em uma tabela fixa - cada objeto pode ter campos diferentes.
 
-… muito usado em APIs e integraÁıes, justamente porque È f·cil de transportar e processar.
+√â muito usado em APIs e integra√ß√µes, justamente porque √© f√°cil de transportar e processar.
 
 */	
 
@@ -17,20 +17,20 @@ CREATE PROCEDURE importa_json_transacoes
 
 AS
 BEGIN
-	SET NOCOUNT ON -- Quando vocÍ quer ver quantas linhas cada comando afetou
+	SET NOCOUNT ON -- Quando voc√™ quer ver quantas linhas cada comando afetou
 
-	DECLARE @json NVARCHAR(MAX) -- Sem limites de caracteres vai atÈ ao m·ximo que pode chegar 
+	DECLARE @json NVARCHAR(MAX) -- Sem limites de caracteres vai at√© ao m√°ximo que pode chegar 
 
-	-- Ler o arquivo onde est· o JASON
+	-- Ler o arquivo onde est√° o JASON
 
-	SELECT @json = Bulkcolumn -- Abre o arquivo como se fosse uma tabela tempor·ria 
+	SELECT @json = Bulkcolumn -- Abre o arquivo como se fosse uma tabela tempor√°ria 
 	FROM OPENROWSET(
 	BULK 'C:\JSON\transacoes.json',		
 	SINGLE_CLOB
 	)AS Jsondata
 
 
-	-- Crie a tabela com condiÁ„o se existir deleta e cria novamente 
+	-- Crie a tabela com condi√ß√£o se existir deleta e cria novamente 
 
 	if OBJECT_ID ('dbo.tb_transacoes') is null
 	BEGIN
