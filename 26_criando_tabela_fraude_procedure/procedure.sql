@@ -20,10 +20,10 @@ FROM 'C:\Users\User\Desktop\TempCarga\Base_Fraude.csv'  -- Caminho completo do a
 
 with 
 (
-	FIRSTROW = 2,			-- Importa a partir da segunda linha por conta do cabeÁalho 
-	FIELDTERMINATOR = ',',	-- Defini o separador de condiÁ„o (CSV,|)
+	FIRSTROW = 2,			-- Importa a partir da segunda linha por conta do cabe√ßalho 
+	FIELDTERMINATOR = ',',	-- Defini o separador de condi√ß√£o (CSV,|)
 	ROWTERMINATOR = '\n',   -- Defini a cada linha como quebra 
-	CODEPAGE = '65001'     -- Defini o cÛdigo de p·ginas como UTF 8
+	CODEPAGE = '65001'     -- Defini o c√≥digo de p√°ginas como UTF 8
 )
 
 
@@ -32,15 +32,15 @@ SELECT*
 FROM BaseFraude
 
 
-/*IntroduÁ„o a Procedure 
- Uma PROC/ PROCEDURE È um conjunto de comandos SQL armazenado no banco de dados, 
-que pode ser executado sob demanda, como uma funÁ„o reutiliz·vel.
+/*Introdu√ß√£o a Procedure 
+ Uma PROC/ PROCEDURE √© um conjunto de comandos SQL armazenado no banco de dados, 
+que pode ser executado sob demanda, como uma fun√ß√£o reutiliz√°vel.
 
 Vantagens: 
-Reutiliz·vel
-PadronizaÁ„o
+Reutiliz√°vel
+Padroniza√ß√£o
 Melhora a perfomance 
-SeguranÁa no controle (select) / PROC 
+Seguran√ßa no controle (select) / PROC 
 
 */
 --========================================================================
@@ -50,7 +50,7 @@ CREATE PROCEDURE NomedaProc
 
 AS 
 		Begin 
-		       -- instruÁ„o SQL que usaremos os parametros
+		       -- instru√ß√£o SQL que usaremos os parametros
 		END 
 
 -- Nome que ira selecionar/ Chamar a Procedure 
@@ -117,5 +117,5 @@ AS
 
 	GO 
 
-EXEC ListarTransacoesPorCliente @Cliente = 'Cliente 2', @Aprovado = 'N„o'
+EXEC ListarTransacoesPorCliente @Cliente = 'Cliente 2', @Aprovado = 'N√£o'
 
