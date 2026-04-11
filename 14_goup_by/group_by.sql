@@ -6,7 +6,7 @@ FROM tb_netflix
 
 /*
 GROUP BY instrucao agrupa linhas que tem os mesmos valores em linhas de resumo, como "encontre o numero de clientes em cada pais".
-GROUP BY geralmente é usada com funções de agregação 
+GROUP BY geralmente Ã© usada com funÃ§Ãµes de agregaÃ§Ã£o 
 ( COUNT () , MAX () , MIN (), SUM (), AVG () ) para agrupar o conjunto de resultados em uma ou mais colunas. 
 
 
