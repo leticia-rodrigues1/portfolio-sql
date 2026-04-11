@@ -1,6 +1,6 @@
 
-/*CRIA«√O DE TABELA FISICA 
-Aqui n„o usa #
+/*CRIA√á√ÉO DE TABELA FISICA 
+Aqui n√£o usa #
 */
 
 SELECT *
