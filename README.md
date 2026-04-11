@@ -6,89 +6,41 @@
 
 💻  SQL | Power BI | GitHub  | SAP | Jira | MS Project | Excel | Power Point | Gestão Ágil | Scrum 
 
-📊 Projeto SQL - Estudos e Práticas
-
-Este repositório reúne exercícios, práticas e aprendizados desenvolvidos ao longo das aulas de SQL.
-
-O objetivo é consolidar conhecimentos em manipulação, consulta e análise de dados utilizando SQL Server.
-
 🚀 Sobre o projeto
+Este repositório reúne meus estudos práticos em SQL, com foco no desenvolvimento de habilidades para análise de dados.
+Os conteúdos foram organizados de forma progressiva, abordando desde conceitos básicos até consultas mais avançadas, sempre com aplicação prática.
 
-Este projeto foi construído com base em aulas práticas, abordando desde conceitos básicos até consultas mais avançadas em SQL.
-
-Cada pasta representa uma aula, contendo exercícios e exemplos aplicados para fixação do conteúdo.
-
-🗂️ Estrutura do projeto
-
-As aulas estão organizadas de forma sequencial para facilitar o aprendizado:
-
-📁 Aula 01
-
-📁 Aula 02
-
-📁 Aula 03
-
-📁 Aula 04
-
-📁 Aula 05
-
-📁 Aula 06
-
-📁 Aula 07
-
-📁 Aula 08
-
-📁 Aula 09
-
-📁 Aula 10
-
-📁 Aula 11
-
-📁 Aula 12
-
-📁 Aula 13
-
-📁 Aula 14
-
-📁 Aula 15
-
-📁 Aula 16
-
-📁 Aula 17
-
-📁 Aula 18
-
-📁 Aula 19
-
-📁 Aula 20
-
-📁 Aula 21
-
-📁 Aula 22
-
-🧠 Conteúdos abordados
-
-✔ SELECT e filtros (WHERE)
-
-✔ ORDER BY e GROUP BY
-
-✔ Funções de agregação
-
-✔ JOINs (INNER, LEFT, RIGHT)
-
+🧠 Habilidades desenvolvidas
+✔ Consultas com SELECT e filtros (WHERE)
+✔ Ordenação de dados (ORDER BY)
+✔ Agrupamentos e métricas (GROUP BY, SUM, COUNT, AVG)
+✔ Junção de tabelas (JOINs)
 ✔ Subqueries
+✔ Criação e manipulação de tabelas
+✔ Importação de dados (JSON e Excel)
 
-✔ Criação de tabelas
+🗂️ Estrutura do repositório
 
-✔ Manipulação de dados (INSERT, UPDATE, DELETE)
+Os conteúdos estão organizados por temas:
 
-✔ Importação de dados (JSON / Excel)
+📁 01_select_basico
+📁 02_filtros_where
+📁 03_order_by
+📁 04_group_by
+📁 05_joins
+📁 06_subqueries
+📁 07_manipulacao_dados
+📁 08_importacao_dados
 
 🛠️ Tecnologias utilizadas
 SQL Server
 SSMS (SQL Server Management Studio)
+GitHub
 
 🎯 Objetivo
-Desenvolver habilidades em SQL para análise de dados, estruturando consultas eficientes e organizadas para resolver problemas reais.
+Desenvolver habilidades sólidas em SQL para atuar com análise de dados, criando consultas eficientes e organizadas para resolver problemas reais.
 
-✨ Este projeto faz parte da minha jornada de aprendizado em Dados.
+✨ Sobre mim
+Sou uma profissional em transição de carreira para a área de dados, com experiência na área bancária e foco em transformar dados em informações relevantes para tomada de decisão.
+
+🚀 Em constante evolução na área de Dados
