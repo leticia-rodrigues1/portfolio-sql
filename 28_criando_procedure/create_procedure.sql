@@ -9,11 +9,11 @@ BEGIN
 
 	SELECT
 	Cliente, --Nome do Cliente
-	Valor_Transacao, -- Valor da Transação
+	Valor_Transacao, -- Valor da TransaÃ§Ã£o
 	
 	CASE
 	WHEN Valor_Transacao < 100 then 'Baixo'
-	WHEN Valor_Transacao between 100 and 1000 then 'Médio'
+	WHEN Valor_Transacao between 100 and 1000 then 'MÃ©dio'
 	ELSE 'ALTO'
 	END AS Classificacao 
 FROM BaseFraude
