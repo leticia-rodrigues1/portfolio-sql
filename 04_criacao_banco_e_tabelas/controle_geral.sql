@@ -5,7 +5,7 @@ EXERCICIO
 Criar um banco CONTROLE_GERAL
 Ciar 3 tabelas
 Inserir 5 registros para cada tabela
-Todas as tabelas com ID INT IDENTITY, n„o podendo ser nenhum campo NULL
+Todas as tabelas com ID INT IDENTITY, n√£o podendo ser nenhum campo NULL
 
 ESTOQUE		- QUANTIDADE, NOME_PRD, DISPONIVEL, NUMERO_DA_NOTA
 VENDAS		- VALOR, PROD, QUANTIDADE, VENDEDOR, FILIAL 
@@ -34,7 +34,7 @@ FROM ESTOQUE
 INSERT INTO ESTOQUE
 VALUES 
 (10,'CAMISA', 'SIM', '120260001'),
-(50,'VESTIDO','N√O', '220260001'),
+(50,'VESTIDO','N√ÉO', '220260001'),
 (30,'SHORT', 'SIM', '320260001'),
 (20,'SAIA', 'SIM', '420260001'),
 (40,'REGATA', 'SIM', '520260001')
