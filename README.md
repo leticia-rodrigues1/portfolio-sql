@@ -14,11 +14,17 @@ Os conteúdos foram organizados de forma progressiva, abordando desde conceitos 
 🧠 Habilidades desenvolvidas
 
 ✔ Consultas com SELECT e filtros (WHERE)
+
 ✔ Ordenação de dados (ORDER BY)
+
 ✔ Agrupamentos e métricas (GROUP BY, SUM, COUNT, AVG)
+
 ✔ Junção de tabelas (JOINs)
+
 ✔ Subqueries
+
 ✔ Criação e manipulação de tabelas
+
 ✔ Importação de dados (JSON e Excel)
 
 🗂️ Estrutura do repositório
@@ -44,7 +50,9 @@ Os conteúdos estão organizados por temas:
 🛠️ Tecnologias utilizadas
 
 SQL Server
+
 SSMS (SQL Server Management Studio)
+
 GitHub
 
 🎯 Objetivo
