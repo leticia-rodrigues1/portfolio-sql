@@ -1,72 +1,35 @@
- ## 👩‍💻 Letícia Rodrigues  — Portfólio SQL
- 
-🎓 Sou formada em Administração | Pós em Projetos | ADS em andamento
+📊 Portfólio SQL - Letícia Rodrigues
 
-📊 Em transição de carreira para Área de Dados
-
-💻  SQL | Power BI | GitHub  | SAP | Jira | MS Project | Excel | Power Point | Gestão Ágil | Scrum 
-
-🚀 Sobre o projeto
-
-Este repositório reúne meus estudos práticos em SQL, com foco no desenvolvimento de habilidades para análise de dados.
-Os conteúdos foram organizados de forma progressiva, abordando desde conceitos básicos até consultas mais avançadas, sempre com aplicação prática.
-
-🧠 Habilidades desenvolvidas
-
-✔ Consultas com SELECT e filtros (WHERE)
-
-✔ Ordenação de dados (ORDER BY)
-
-✔ Agrupamentos e métricas (GROUP BY, SUM, COUNT, AVG)
-
-✔ Junção de tabelas (JOINs)
-
-✔ Subqueries
-
-✔ Criação e manipulação de tabelas
-
-✔ Importação de dados (JSON e Excel)
-
-🗂️ Estrutura do repositório
-
-Os conteúdos estão organizados por temas:
-
-📁 01_select_basico
-
-📁 02_filtros_where
-
-📁 03_order_by
-
-📁 04_group_by
-
-📁 05_joins
-
-📁 06_subqueries
-
-📁 07_manipulacao_dados
-
-📁 08_importacao_dados
-
-🛠️ Tecnologias utilizadas
-
-SQL Server
-
-SSMS (SQL Server Management Studio)
-
-GitHub
+Este repositório reúne projetos práticos desenvolvidos em SQL Server com foco em análise de dados.
 
 🎯 Objetivo
 
-Desenvolver habilidades sólidas em SQL para atuar com análise de dados, criando consultas eficientes e organizadas para resolver problemas reais.
+Demonstrar habilidades em consultas SQL aplicadas a cenários de negócio, utilizando boas práticas de análise de dados.
 
-✨ Sobre mim
+🛠️ Técnicas utilizadas
 
-Sou uma profissional em transição de carreira para a área de dados, com experiência na área bancária e foco em transformar dados em informações relevantes para tomada de decisão.
+SELECT
 
-🚀 Em constante evolução na área de Dados
+WHERE
 
-📫 Contato
+JOIN (INNER, LEFT)
 
-LinkedIn: https://www.linkedin.com/in/leticia-rodrigues-a71055147
+GROUP BY
 
-Email: leticiaradm@outlook.com
+ORDER BY
+
+COUNT, SUM, AVG
+
+📁 Projetos
+
+Análise de clientes
+
+Análise de vendas
+
+Consultas com agrupamento e filtros
+
+🚀 Sobre
+
+Este projeto faz parte da minha transição para a área de dados, onde venho desenvolvendo habilidades práticas em SQL.
+
+✨ Em constante evolução
