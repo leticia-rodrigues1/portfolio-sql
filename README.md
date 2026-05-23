@@ -1,12 +1,12 @@
-📊 Portfólio SQL - Letícia Rodrigues
+### Portfólio SQL - Letícia Rodrigues
 
 Este repositório reúne projetos práticos desenvolvidos em SQL Server com foco em análise de dados.
 
-🎯 Objetivo
+### Objetivo
 
 Demonstrar habilidades em consultas SQL aplicadas a cenários de negócio, utilizando boas práticas de análise de dados.
 
-🛠️ Técnicas utilizadas
+### Técnicas utilizadas
 
 SELECT
 
@@ -20,7 +20,7 @@ ORDER BY
 
 COUNT, SUM, AVG
 
-📁 Projetos
+### Projetos
 
 Análise de clientes
 
@@ -28,8 +28,8 @@ Análise de vendas
 
 Consultas com agrupamento e filtros
 
-🚀 Sobre
+### Sobre
 
 Este projeto faz parte da minha transição para a área de dados, onde venho desenvolvendo habilidades práticas em SQL.
 
-✨ Em constante evolução
+### Em constante evolução
